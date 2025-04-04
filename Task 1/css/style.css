@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  min-height: 300vh;
+}
+
+/* Header Area Start */
+.header-area {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+.header {
+  display: flex;
+}
+.header-logo {
+  margin-left: 160px;
+  margin-top: 20px;
+}
+nav {
+  display: flex;
+}
+.manu {
+  gap: 100px;
+  margin-left: 400px;
+  margin-top: 25px;
+}
+.manu {
+  display: flex;
+}
+.manu-itrm {
+  list-style-type: none;
+}
+.manu-item-link {
+  text-decoration: none;
+}
+.searce-icom {
+  margin-left: 300px;
+  margin-top: -12px;
+}
+
+/* Hero Area Start */
+.hero-text {
+  margin-left: 100px;
+}
+.hero-title {
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hero-para {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hero-link {
+  background-color: rgb(8, 122, 122);
+  padding: 12px 12px;
+  color: white;
+  display: inline-block;
+  margin-top: 30px;
+}
+.company-pare {
+  margin-top: 100px;
+}
+.company-logo {
+  margin-top: 18px;
+}
+.company-top-img-4 {
+  padding-left: 80px;
+}
+.company-bottom-img-6 {
+  padding-left: 50px;
+}
+.company-logo-bottom {
+  margin-top: 12px;
+}
+.hero-img {
+  margin-top: -580px;
+  margin-left: 450px;
+}
+.company-img-7 {
+  width: 330px;
+}
